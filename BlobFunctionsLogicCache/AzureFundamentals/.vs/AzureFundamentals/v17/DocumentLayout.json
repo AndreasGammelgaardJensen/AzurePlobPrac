@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azuretangyfunc\\onsalesuploadwritetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|solutionrelative:azuretangyfunc\\onsalesuploadwritetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azuretangyfunc\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|solutionrelative:azuretangyfunc\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}|AzureFunctionWeb\\AzureFunctionWeb.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azurefunctionweb\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}|AzureFunctionWeb\\AzureFunctionWeb.csproj|solutionrelative:azurefunctionweb\\models\\salesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azuretangyfunc\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|solutionrelative:azuretangyfunc\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\services\\containerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\services\\containerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azuretangyfunc\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|solutionrelative:azuretangyfunc\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}|AzureFunctionWeb\\AzureFunctionWeb.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azurefunctionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}|AzureFunctionWeb\\AzureFunctionWeb.csproj|solutionrelative:azurefunctionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}|AzureFunctionWeb\\AzureFunctionWeb.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azurefunctionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}|AzureFunctionWeb\\AzureFunctionWeb.csproj|solutionrelative:azurefunctionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azuretangyfunc\\azuretangyfunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|solutionrelative:azuretangyfunc\\azuretangyfunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azuretangyfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D404017-2D60-4E40-90BF-7F89B5871B99}|AzureTangyFunc\\AzureTangyFunc.csproj|solutionrelative:azuretangyfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\azureclientfactorybuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\azureclientfactorybuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\views\\container\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\views\\container\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\views\\blob\\addfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\views\\blob\\addfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|c:\\practice\\azureplobprac\\blobfunctionslogiccache\\azurefundamentals\\azureblopproject\\azureblopproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6BE755D-4735-4221-8369-1EAD8F54EA33}|AzureBlopProject\\AzureBlopProject.csproj|solutionrelative:azureblopproject\\azureblopproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1474,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesRequest.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\Models\\SalesRequest.cs",
+              "RelativeDocumentMoniker": "AzureTangyFunc\\Models\\SalesRequest.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\Models\\SalesRequest.cs",
+              "RelativeToolTip": "AzureTangyFunc\\Models\\SalesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:55:30.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\local.settings.json",
+              "RelativeDocumentMoniker": "AzureTangyFunc\\local.settings.json",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\local.settings.json",
+              "RelativeToolTip": "AzureTangyFunc\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T11:30:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\host.json",
+              "RelativeDocumentMoniker": "AzureTangyFunc\\host.json",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\host.json",
+              "RelativeToolTip": "AzureTangyFunc\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T11:30:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnSalesUploadWriteToQueue.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\OnSalesUploadWriteToQueue.cs",
+              "RelativeDocumentMoniker": "AzureTangyFunc\\OnSalesUploadWriteToQueue.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\OnSalesUploadWriteToQueue.cs",
+              "RelativeToolTip": "AzureTangyFunc\\OnSalesUploadWriteToQueue.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvw8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:29:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesRequest.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureFunctionWeb\\Models\\SalesRequest.cs",
+              "RelativeDocumentMoniker": "AzureFunctionWeb\\Models\\SalesRequest.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureFunctionWeb\\Models\\SalesRequest.cs",
+              "RelativeToolTip": "AzureFunctionWeb\\Models\\SalesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:41:13.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureFunctionWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AzureFunctionWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureFunctionWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AzureFunctionWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:53:25.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContainerServices.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Services\\ContainerServices.cs",
+              "RelativeDocumentMoniker": "AzureBlopProject\\Services\\ContainerServices.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Services\\ContainerServices.cs",
+              "RelativeToolTip": "AzureBlopProject\\Services\\ContainerServices.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADgvycAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:27:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureFunctionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureFunctionWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureFunctionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AzureFunctionWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T10:53:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\Program.cs",
+              "RelativeDocumentMoniker": "AzureTangyFunc\\Program.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\Program.cs",
+              "RelativeToolTip": "AzureTangyFunc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:31:44.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AzureTangyFunc",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\AzureTangyFunc.csproj",
+              "RelativeDocumentMoniker": "AzureTangyFunc\\AzureTangyFunc.csproj",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureTangyFunc\\AzureTangyFunc.csproj",
+              "RelativeToolTip": "AzureTangyFunc\\AzureTangyFunc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T11:32:17.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlopProject\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Services\\BlobService.cs",
+              "RelativeToolTip": "AzureBlopProject\\Services\\BlobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:15:27.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddFile.cshtml",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Views\\Blob\\AddFile.cshtml",
+              "RelativeDocumentMoniker": "AzureBlopProject\\Views\\Blob\\AddFile.cshtml",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Views\\Blob\\AddFile.cshtml",
+              "RelativeToolTip": "AzureBlopProject\\Views\\Blob\\AddFile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:55:51.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Views\\Container\\Create.cshtml",
+              "RelativeDocumentMoniker": "AzureBlopProject\\Views\\Container\\Create.cshtml",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Views\\Container\\Create.cshtml",
+              "RelativeToolTip": "AzureBlopProject\\Views\\Container\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:55:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AzureBlopProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AzureBlopProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:55:10.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Models\\Container.cs",
+              "RelativeDocumentMoniker": "AzureBlopProject\\Models\\Container.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Models\\Container.cs",
+              "RelativeToolTip": "AzureBlopProject\\Models\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:54:38.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.204\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-15T19:48:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\appsettings.json",
+              "RelativeDocumentMoniker": "AzureBlopProject\\appsettings.json",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\appsettings.json",
+              "RelativeToolTip": "AzureBlopProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-15T12:42:39.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContainerController.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Controllers\\ContainerController.cs",
+              "RelativeDocumentMoniker": "AzureBlopProject\\Controllers\\ContainerController.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Controllers\\ContainerController.cs",
+              "RelativeToolTip": "AzureBlopProject\\Controllers\\ContainerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:27:16.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AzureBlopProject.csproj",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\AzureBlopProject.csproj",
+              "RelativeDocumentMoniker": "AzureBlopProject\\AzureBlopProject.csproj",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\AzureBlopProject.csproj",
+              "RelativeToolTip": "AzureBlopProject\\AzureBlopProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-15T12:46:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureClientFactoryBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\AzureClientFactoryBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "AzureBlopProject\\AzureClientFactoryBuilderExtensions.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\AzureClientFactoryBuilderExtensions.cs",
+              "RelativeToolTip": "AzureBlopProject\\AzureClientFactoryBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:42:51.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Program.cs",
+              "RelativeDocumentMoniker": "AzureBlopProject\\Program.cs",
+              "ToolTip": "C:\\Practice\\AzurePlobPrac\\BlobFunctionsLogicCache\\AzureFundamentals\\AzureBlopProject\\Program.cs",
+              "RelativeToolTip": "AzureBlopProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:42:01.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

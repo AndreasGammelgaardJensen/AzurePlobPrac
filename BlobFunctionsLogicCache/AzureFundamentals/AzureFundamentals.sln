@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBlopProject", "AzureBlopProject\AzureBlopProject.csproj", "{E6BE755D-4735-4221-8369-1EAD8F54EA33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureBlopProject", "AzureBlopProject\AzureBlopProject.csproj", "{E6BE755D-4735-4221-8369-1EAD8F54EA33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFunctionWeb", "AzureFunctionWeb\AzureFunctionWeb.csproj", "{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureBlobExample", "AzureBlobExample", "{2405D9AE-E532-46FE-ABC4-0F7A8A2A4FFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureFunctionExample", "AzureFunctionExample", "{4A447200-ED78-42EA-A093-9E1C68C331EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTangyFunc", "AzureTangyFunc\AzureTangyFunc.csproj", "{6D404017-2D60-4E40-90BF-7F89B5871B99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +23,22 @@ Global
 		{E6BE755D-4735-4221-8369-1EAD8F54EA33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6BE755D-4735-4221-8369-1EAD8F54EA33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6BE755D-4735-4221-8369-1EAD8F54EA33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D404017-2D60-4E40-90BF-7F89B5871B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D404017-2D60-4E40-90BF-7F89B5871B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D404017-2D60-4E40-90BF-7F89B5871B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D404017-2D60-4E40-90BF-7F89B5871B99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6BE755D-4735-4221-8369-1EAD8F54EA33} = {2405D9AE-E532-46FE-ABC4-0F7A8A2A4FFA}
+		{5C3C5EF5-FF94-4DE0-A3DD-3541BD6BDACC} = {4A447200-ED78-42EA-A093-9E1C68C331EF}
+		{6D404017-2D60-4E40-90BF-7F89B5871B99} = {4A447200-ED78-42EA-A093-9E1C68C331EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D12B8B21-2BDE-442A-BD46-EC50A994643D}
